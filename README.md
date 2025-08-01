@@ -1,5 +1,10 @@
 # git-cafe-exercise
 
+## Bundle 5
+
+### Exercise 2
+
+```bash
 User@Uwinzinge MINGW64 ~/Desktop/The Gym/Git Practice/Gym Git Exercise/git-cafe-exercise (main)
 $ git add index.html
 
@@ -20,3 +25,4 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To https://github.com/ngenziwingenzi/git-cafe-exercise.git
    d1d3f9c..e3a5043  main -> main
 branch 'main' set up to track 'origin/main'.
+```
